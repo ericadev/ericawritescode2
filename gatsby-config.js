@@ -9,16 +9,14 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Erica Writes Code`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Erica Holden`,
+      summary: `who lives and works in Ontario, Canada building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    description: `Just a programming blog.`,
+    siteUrl: `https://ericawritescode.com/`,
+
   },
   plugins: [
     `gatsby-plugin-image`,
