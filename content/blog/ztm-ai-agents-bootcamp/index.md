@@ -1,7 +1,7 @@
 ---
 title: ZTM AI Agents Bootcamp
 date: "2026-01-07T15:30:00.000Z"
-description: "I decided to follow along with the ZTM agents bootcamp but immediately found some snags. Click the title to read more."
+description: "I decided to follow along with the ZTM agents bootcamp but immediately found some snags."
 ---
 I recently started the AI Agents Bootcamp by ZTM as found at https://zerotomastery.io/courses/ai-agents-bootcamp/ but immediately hit a snag when trying to follow the instructions for creating a job agent. This project involves creating an interviewer agent and a job coach agent, and instructing them to work such that the interviewer asks a question and collects your answer, then feeds it to the job coach agent which provides feedback on your answer. The first snag I hit was that the class instructs you to run them as one AI Crew, but enter the result of the interviewer agent's question (your answer) as input into the job coach agent. I was unable to do this since the result doesn't exist when you kick off the crew. I created two crews - one for the interviewer agent, from which I got a result, then fed that into the second crew which consisted only of the job coach agent.
 

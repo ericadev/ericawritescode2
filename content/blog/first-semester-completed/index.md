@@ -1,7 +1,7 @@
 ---
 title: Completed First Semester of Applied AI & ML Program
 date: "2025-08-18T14:30:00.000Z"
-description: "I completed the first semester of the post-graduate certificate program in Applied AI and ML. Click the title to read more."
+description: "I completed the first semester of the post-graduate certificate program in Applied AI and ML."
 ---
 
 I have recently completed the first semester of the Applied AI & ML Program, which is a post-graduate certificate program at Conestoga College.
